@@ -1,0 +1,17 @@
+@@||revanced.net^$important
+@@||s.youtube.com^$important
+@@||watson.telemetry.microsoft.com^$important
+||ifota.coloros.com^$important
+||rkyluzsupob.com^$important
+||whoami.akamai.net^$important
+||pixel.facebook.com^
+||ads-api.tiktok.com^
+||analytics.tiktok.com^
+||ads.tiktok.com^
+||api.bugsnag.com^$important
+||app.bugsnag.com^$important
+||browser.sentry-cdn.com^$important
+||app.getsentry.com^$important
+||widgets.pinterest.com^$important
+||udc.yahoo.com^$important
+||udcm.yahoo.com^$important
